@@ -8,17 +8,17 @@ Using the **Access Control** widget, the user can do the following:
 
 **Access Control**:  
 
-<img src="https://github.com/fortinet-fortisoar/widget-access-control/blob/release/2.1.0/docs/media/access-control.png" alt="Access Control" style="border: 1px solid #A9A9A9; border-radius: 4px; padding: 10px; display: block; margin-left: auto; margin-right: auto; width: 80%">
+<img src="https://raw.githubusercontent.com/fortinet-fortisoar/widget-access-control/release/2.1.0/docs/media/access-control.png" alt="Access Control" style="border: 1px solid #A9A9A9; border-radius: 4px; padding: 10px; display: block; margin-left: auto; margin-right: auto; width: 80%">
 <br/>
 
 **Assign User**:
 
-<img src="https://github.com/fortinet-fortisoar/widget-access-control/blob/release/2.1.0/docs/media/access-control-assign-user.png" alt="Access Control - Assign User" style="border: 1px solid #A9A9A9; border-radius: 4px; padding: 10px; display: block; margin-left: auto; margin-right: auto; width: 80%">
+<img src="https://raw.githubusercontent.com/fortinet-fortisoar/widget-access-control/release/2.1.0/docs/media/access-control-assign-user.png" alt="Access Control - Assign User" style="border: 1px solid #A9A9A9; border-radius: 4px; padding: 10px; display: block; margin-left: auto; margin-right: auto; width: 80%">
 <br/>
 
 Edit Access Control Widget:
 
-<img src="https://github.com/fortinet-fortisoar/widget-access-control/blob/release/2.1.0/docs/media/access-control-edit-access-control-widget.png" alt="Edit Access Control Widget" style="border: 1px solid #A9A9A9; border-radius: 4px; padding: 10px; display: block; margin-left: auto; margin-right: auto; width: 80%">
+<img src="https://raw.githubusercontent.com/fortinet-fortisoar/widget-access-control/release/2.1.0/docs/media/access-control-edit-access-control-widget.png" alt="Edit Access Control Widget" style="border: 1px solid #A9A9A9; border-radius: 4px; padding: 10px; display: block; margin-left: auto; margin-right: auto; width: 80%">
 <br/>
 
 **Certified**: Yes  
