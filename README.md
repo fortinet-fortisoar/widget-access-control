@@ -1,1 +1,1 @@
-Widget documentation https://github.com/fortinet-fortisoar/widget-access-control/blob/2.1.0/docs/AccessControl.md
+Widget documentation https://github.com/fortinet-fortisoar/widget-access-control/blob/release/2.1.0/docs/README.md
